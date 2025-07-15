@@ -76,11 +76,11 @@ Happy Coding!
 
 [0A - Node Installation](https://github.com/glf30/0a-node-installation)
 
-[0B - Running Node](https://github.com/glf30/0b-running-node) | [Notes](https://gist.github.com/glf30/fcd478a5ffad2a1d0f5383cdaed398b4)
+[0B - Running Node](https://github.com/glf30/0b-running-node)
 
 ### Unit 1 - Introduction to Node
 
-[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/e7b3929eb7e5215731de900d3ebe5310)
+[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) 
 
 
 ### Unit 2 - Node, Express, & EJS
