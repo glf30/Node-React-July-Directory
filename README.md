@@ -80,7 +80,7 @@ Happy Coding!
 
 ### Unit 1 - Introduction to Node
 
-[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) 
+[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/9661726a4f77c2b97bec2aca962d9f93)
 
 
 ### Unit 2 - Node, Express, & EJS
