@@ -89,6 +89,8 @@ Happy Coding!
 
 ### Unit 2 - Node, Express, & EJS
 
+[2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/55fcc908d3b7ea3beb69b236e5ada246)
+
 ### Unit 3 - MongoDB
 
 ### Unit 4 - Authentication
