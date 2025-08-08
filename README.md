@@ -92,6 +92,9 @@ Happy Coding!
 [2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/55fcc908d3b7ea3beb69b236e5ada246)
 
 [2B - Express](https://github.com/glf30/2b-express/tree/master) | [Notes](https://gist.github.com/glf30/ce3a41537bcab274e341fcb2765781c8)
+
+[2C - Express CRUD](https://github.com/glf30/2c-express-crud/tree/master) | [Notes](https://gist.github.com/glf30/cdb5b6df27a5980298dbacd9e49886de)
+
 ### Unit 3 - MongoDB
 
 ### Unit 4 - Authentication
