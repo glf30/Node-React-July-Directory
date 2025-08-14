@@ -95,6 +95,8 @@ Happy Coding!
 
 [2C - Express CRUD](https://github.com/glf30/2c-express-crud/tree/master) | [Notes](https://gist.github.com/glf30/cdb5b6df27a5980298dbacd9e49886de)
 
+[2D - Express Router](https://github.com/glf30/2d-express-router) | [Notes](https://gist.github.com/glf30/1f7b62563af8b6ee4e28a1b0f93f93e3)
+
 ### Unit 3 - MongoDB
 
 ### Unit 4 - Authentication
