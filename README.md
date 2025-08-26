@@ -97,6 +97,8 @@ Happy Coding!
 
 [2D - Express Router](https://github.com/glf30/2d-express-router) | [Notes](https://gist.github.com/glf30/1f7b62563af8b6ee4e28a1b0f93f93e3)
 
+[2E - Try-Catch/Async-Await/Axios](https://github.com/glf30/2e-api-requests) | [Notes](https://gist.github.com/glf30/3db0080cbb86c40cf893326818f1d007)
+
 ### Unit 3 - MongoDB
 
 ### Unit 4 - Authentication
