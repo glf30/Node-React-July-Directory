@@ -99,6 +99,8 @@ Happy Coding!
 
 [2E - Try-Catch/Async-Await/Axios](https://github.com/glf30/2e-api-requests) | [Notes](https://gist.github.com/glf30/3db0080cbb86c40cf893326818f1d007)
 
+[Unit 2 Project](https://github.com/glf30/LAB-Video-Game-Library-API) | [Solution](https://gist.github.com/glf30/e48e15084dfc1ac69c99037626a5ccf6)
+
 ### Unit 3 - MongoDB
 
 ### Unit 4 - Authentication
