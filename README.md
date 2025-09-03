@@ -102,6 +102,7 @@ Happy Coding!
 [Unit 2 Project](https://github.com/glf30/LAB-Video-Game-Library-API) | [Solution](https://gist.github.com/glf30/e48e15084dfc1ac69c99037626a5ccf6)
 
 ### Unit 3 - MongoDB
+[3A - Intro to MongoDB](https://github.com/glf30/3a-intro-to-mongodb) | [Notes](https://gist.github.com/glf30/520343f36ccf833a8c4223f4d60801e4)
 
 ### Unit 4 - Authentication
 
